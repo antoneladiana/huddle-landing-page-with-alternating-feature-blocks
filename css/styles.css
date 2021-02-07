@@ -255,6 +255,7 @@ footer {
     outline: none;
     border: 2px solid #c4cbe9;
     border-radius: 2px;
+    text-decoration: none;
 }
 /* ----------------------- MEDIA QUERIES -------------------- */
 @media screen and (min-width: 600px) {
