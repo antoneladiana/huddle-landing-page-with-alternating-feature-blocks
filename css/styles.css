@@ -138,6 +138,7 @@ article:nth-of-type(2) {
 }
 h2 {
     font-size: 1.8rem;
+    line-height: 1.5;
 }
 .card-img, .card-text {
     flex: 1 1 500px;
@@ -156,7 +157,7 @@ article, .box-get-started {
     padding: 50px 20px 40px;
     width: 90%;
     max-width: 700px;
-    margin: 120px auto 0;
+    margin: 80px auto 0;
     position: relative;
     bottom: -100px;
     background-color: #ffffff;
@@ -164,9 +165,6 @@ article, .box-get-started {
 .box-get-started h2 {
     margin-bottom: 30px;
 }
-/* .box-get-started button {
-    width: 100%;
-} */
 /* ----------------------- FOOTER --------------------------- */
 footer {
     background-color: #00252e;
