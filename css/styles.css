@@ -78,7 +78,7 @@ header {
 }
 .logo-header {
     width: 200px;
-    max-width: 30vw;
+    max-width: 40vw;
 }
 .logo-header-content {
     --img-color: #ff52bf;
